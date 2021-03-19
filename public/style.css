@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    padding: 1rem;
+    background-color: aquamarine;
+    font-weight: bold;
+    border-radius: 1rem;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.two {
+    display: inline-block;
+    background-color: orange;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
